@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="93357" started-at="2017-07-12T17:23:28Z" finished-at="2017-07-12T17:25:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="93357" started-at="2017-07-12T17:23:28Z" finished-at="2017-07-12T17:25:02Z">
+      <class name="com.wbl.test.SearchDetailsTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="beforeSuite" is-config="true" duration-ms="3647" started-at="2017-07-12T10:23:25Z" finished-at="2017-07-12T10:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="before" is-config="true" duration-ms="78061" started-at="2017-07-12T10:23:28Z" finished-at="2017-07-12T10:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="getColorTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="getColorTest" duration-ms="482" started-at="2017-07-12T10:24:48Z" data-provider="SearchDetails" finished-at="2017-07-12T10:24:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.walmart.com/ip/Ekidsbridal-Wedding-Pageant-Glitter-Sequin-Tulle-Flower-Girl-Dress-Toddler-Junior-Bridesmaid-Recital-Easter-Holiday-Communion-Birthday-Girls-Clothing/585061526?variantFieldId=actual_color]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gold / Ivory / Navy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[color found]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Add to Cart]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getColorTest -->
+        <test-method status="PASS" signature="getQuantityTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="getQuantityTest" duration-ms="10568" started-at="2017-07-12T10:24:48Z" data-provider="SearchDetails" finished-at="2017-07-12T10:24:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.walmart.com/ip/Ekidsbridal-Wedding-Pageant-Glitter-Sequin-Tulle-Flower-Girl-Dress-Toddler-Junior-Bridesmaid-Recital-Easter-Holiday-Communion-Birthday-Girls-Clothing/585061526?variantFieldId=actual_color]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gold / Ivory / Navy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[color found]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Add to Cart]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getQuantityTest -->
+        <test-method status="PASS" signature="getSizeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="getSizeTest" duration-ms="2698" started-at="2017-07-12T10:24:59Z" data-provider="SearchDetails" finished-at="2017-07-12T10:25:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.walmart.com/ip/Ekidsbridal-Wedding-Pageant-Glitter-Sequin-Tulle-Flower-Girl-Dress-Toddler-Junior-Bridesmaid-Recital-Easter-Holiday-Communion-Birthday-Girls-Clothing/585061526?variantFieldId=actual_color]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gold / Ivory / Navy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[color found]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Add to Cart]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSizeTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="afterSuite" is-config="true" duration-ms="0" started-at="2017-07-12T10:25:02Z" finished-at="2017-07-12T10:25:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.wbl.test.SearchDetailsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
