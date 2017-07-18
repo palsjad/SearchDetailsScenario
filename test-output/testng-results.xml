@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="93357" started-at="2017-07-12T17:23:28Z" finished-at="2017-07-12T17:25:02Z">
+  <suite name="Suite" duration-ms="66951" started-at="2017-07-12T23:17:38Z" finished-at="2017-07-12T23:18:45Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="93357" started-at="2017-07-12T17:23:28Z" finished-at="2017-07-12T17:25:02Z">
+    <test name="Test" duration-ms="66951" started-at="2017-07-12T23:17:38Z" finished-at="2017-07-12T23:18:45Z">
       <class name="com.wbl.test.SearchDetailsTest">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="beforeSuite" is-config="true" duration-ms="3647" started-at="2017-07-12T10:23:25Z" finished-at="2017-07-12T10:23:28Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="beforeSuite" is-config="true" duration-ms="5476" started-at="2017-07-12T16:17:33Z" finished-at="2017-07-12T16:17:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="before()[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="before" is-config="true" duration-ms="78061" started-at="2017-07-12T10:23:28Z" finished-at="2017-07-12T10:24:46Z">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="before" is-config="true" duration-ms="19" started-at="2017-07-12T16:17:38Z" finished-at="2017-07-12T16:17:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before -->
-        <test-method status="PASS" signature="getColorTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="getColorTest" duration-ms="482" started-at="2017-07-12T10:24:48Z" data-provider="SearchDetails" finished-at="2017-07-12T10:24:48Z">
+        <test-method status="PASS" signature="getColorTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="getColorTest" duration-ms="53452" started-at="2017-07-12T16:17:39Z" data-provider="SearchDetails" finished-at="2017-07-12T16:18:33Z">
           <params>
             <param index="0">
               <value>
@@ -51,7 +51,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getColorTest -->
-        <test-method status="PASS" signature="getQuantityTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="getQuantityTest" duration-ms="10568" started-at="2017-07-12T10:24:48Z" data-provider="SearchDetails" finished-at="2017-07-12T10:24:59Z">
+        <test-method status="PASS" signature="getQuantityTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="getQuantityTest" duration-ms="9963" started-at="2017-07-12T16:18:33Z" data-provider="SearchDetails" finished-at="2017-07-12T16:18:43Z">
           <params>
             <param index="0">
               <value>
@@ -87,7 +87,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getQuantityTest -->
-        <test-method status="PASS" signature="getSizeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="getSizeTest" duration-ms="2698" started-at="2017-07-12T10:24:59Z" data-provider="SearchDetails" finished-at="2017-07-12T10:25:02Z">
+        <test-method status="PASS" signature="getSizeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="getSizeTest" duration-ms="2384" started-at="2017-07-12T16:18:43Z" data-provider="SearchDetails" finished-at="2017-07-12T16:18:45Z">
           <params>
             <param index="0">
               <value>
@@ -123,11 +123,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSizeTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="afterSuite" is-config="true" duration-ms="0" started-at="2017-07-12T10:25:02Z" finished-at="2017-07-12T10:25:02Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.wbl.test.SearchDetailsTest@703580bf]" name="afterSuite" is-config="true" duration-ms="0" started-at="2017-07-12T16:18:46Z" finished-at="2017-07-12T16:18:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
       </class> <!-- com.wbl.test.SearchDetailsTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
